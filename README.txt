@@ -1,1 +1,1 @@
-% Source-code-sample provided for potential employers. The sample is from a takehome test for Numerical analysis.
+% Source-code-sample provided for potential employers. The sample is from a Numerical analysis class where the goal was to use extrapolation, specifically Romberg integration, to evaluate integrals.  
