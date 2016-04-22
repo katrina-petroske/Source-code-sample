@@ -1,4 +1,4 @@
-%% Numerical Analysis 2 Takehome 1 Katrina Petroske
+%% Numerical Analysis 2 Katrina Petroske
 % Write a Romberg Integration code that accepts interval [a,b], function to
 % be integrated, minimum number of subintervals, and the desired order of 
 % accuracy. Validate the code with a grid refinement study.
